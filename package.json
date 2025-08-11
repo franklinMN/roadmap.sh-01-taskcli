@@ -1,0 +1,29 @@
+{
+  "name": "roadmap.sh-01-taskcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklinMN/roadmap.sh-01-taskcli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklinMN/roadmap.sh-01-taskcli/issues"
+  },
+  "homepage": "https://github.com/franklinMN/roadmap.sh-01-taskcli#readme",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "commander": "^14.0.0",
+    "uuid": "^11.1.0"
+  },
+  "bin": {
+    "task": "./bin/task.js"
+  },
+  "type": "module"
+}
