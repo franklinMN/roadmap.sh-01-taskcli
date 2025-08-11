@@ -72,5 +72,4 @@ task mark 1234 done
 ## Reference
 This project was inspired by the Task Tracker Project on roadmap.sh.
 
----
-If you want, I can also **add a "Development Notes" section** so future you knows exactly where files like `tasks.json` are stored and which commands you used during development. That will make it easier to revisit later.
+🩷🐣
