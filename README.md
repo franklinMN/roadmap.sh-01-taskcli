@@ -25,8 +25,8 @@ This project is based on the challenge from [roadmap.sh](https://roadmap.sh/proj
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
-   cd task-tracker
+      git clone https://github.com/your-username/task-tracker.git
+      cd task-tracker
     ```
 2. **Install dependencies**
   ```bash
@@ -72,9 +72,5 @@ task mark 1234 done
 ## Reference
 This project was inspired by the Task Tracker Project on roadmap.sh.
 
-```yaml
-
 ---
-
 If you want, I can also **add a "Development Notes" section** so future you knows exactly where files like `tasks.json` are stored and which commands you used during development. That will make it easier to revisit later.
-```
