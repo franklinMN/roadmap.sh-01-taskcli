@@ -24,25 +24,25 @@ This project is based on the challenge from [roadmap.sh](https://roadmap.sh/proj
 ## Installation
 
 1. **Clone the repository**
-   ```bash
-      git clone https://github.com/your-username/task-tracker.git
-      cd task-tracker
-    ```
+```bash
+git clone https://github.com/your-username/task-tracker.git
+cd task-tracker
+```
 2. **Install dependencies**
-  ```bash
-    npm install
-  ```
+```bash
+npm install
+```
 3. **Make the CLI executable (optional, for global use)**
 ```bash
-  npm link
+npm link
 ```
 
 # Usage
 ## Run commands using:
 ```bash
-  node index.js <command> [options]
-  # or if linked globally
-  task <command> [options]
+node index.js <command> [options]
+# or if linked globally
+task <command> [options]
 ```
 
 ## Commands
